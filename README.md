@@ -3,4 +3,4 @@
 3) kubectl apply -f front-back-app.yaml
 4) Ce fichier permet l'utilisation de l'application
 5) minikube service front-end --url --> utiliser l'url qui s'affiche
-6) L'execution affiche "Hello (from work) world (from back)"
+6) L'execution affiche "Hello (from the front end) World !(from the back end)"
